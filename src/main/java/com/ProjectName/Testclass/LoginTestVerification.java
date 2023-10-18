@@ -39,7 +39,7 @@ public class LoginTestVerification extends BaseClass
 			test.addScreenCaptureFromPath(ScreenshotPath);
 		}
 		
-		System.out.println("login complete");
+		
 	}
 	
 
