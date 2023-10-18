@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-11T03:13:22 GMT-07:00" name="Suite" finished-at="2023-10-11T03:13:28 GMT-07:00" duration-ms="5911">
+    <groups>
+    </groups>
+    <test started-at="2023-10-11T03:13:22 GMT-07:00" name="Test" finished-at="2023-10-11T03:13:28 GMT-07:00" duration-ms="5911">
+      <class name="com.ProjectName.Testclass.LoginTestVerification">
+        <test-method is-config="true" signature="setReport()[pri:0, instance:com.ProjectName.Testclass.LoginTestVerification@2d7275fc]" started-at="2023-10-11T03:13:21 GMT-07:00" name="setReport" finished-at="2023-10-11T03:13:22 GMT-07:00" duration-ms="293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setReport -->
+        <test-method is-config="true" signature="SetupMethod(java.lang.String)[pri:0, instance:com.ProjectName.Testclass.LoginTestVerification@2d7275fc]" started-at="2023-10-11T03:13:22 GMT-07:00" name="SetupMethod" finished-at="2023-10-11T03:13:27 GMT-07:00" duration-ms="5340" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupMethod -->
+        <test-method signature="Method_LoginTest()[pri:0, instance:com.ProjectName.Testclass.LoginTestVerification@2d7275fc]" started-at="2023-10-11T03:13:27 GMT-07:00" name="Method_LoginTest" finished-at="2023-10-11T03:13:27 GMT-07:00" duration-ms="333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Method_LoginTest -->
+        <test-method is-config="true" signature="ClosedBrowserMethod()[pri:0, instance:com.ProjectName.Testclass.LoginTestVerification@2d7275fc]" started-at="2023-10-11T03:13:27 GMT-07:00" name="ClosedBrowserMethod" finished-at="2023-10-11T03:13:28 GMT-07:00" duration-ms="197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClosedBrowserMethod -->
+        <test-method is-config="true" signature="endReport()[pri:0, instance:com.ProjectName.Testclass.LoginTestVerification@2d7275fc]" started-at="2023-10-11T03:13:28 GMT-07:00" name="endReport" finished-at="2023-10-11T03:13:28 GMT-07:00" duration-ms="327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.ProjectName.Testclass.LoginTestVerification -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
